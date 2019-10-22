@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/swiper-repro/static/css/main.d92272cb.chunk.css",
+    "main.js": "/swiper-repro/static/js/main.41485841.chunk.js",
+    "main.js.map": "/swiper-repro/static/js/main.41485841.chunk.js.map",
+    "runtime-main.js": "/swiper-repro/static/js/runtime-main.2ba3998f.js",
+    "runtime-main.js.map": "/swiper-repro/static/js/runtime-main.2ba3998f.js.map",
+    "static/css/2.3f358699.chunk.css": "/swiper-repro/static/css/2.3f358699.chunk.css",
+    "static/js/2.bfaa1fcd.chunk.js": "/swiper-repro/static/js/2.bfaa1fcd.chunk.js",
+    "static/js/2.bfaa1fcd.chunk.js.map": "/swiper-repro/static/js/2.bfaa1fcd.chunk.js.map",
+    "index.html": "/swiper-repro/index.html",
+    "precache-manifest.e72e31271882988790664e53542cd9da.js": "/swiper-repro/precache-manifest.e72e31271882988790664e53542cd9da.js",
+    "service-worker.js": "/swiper-repro/service-worker.js",
+    "static/css/2.3f358699.chunk.css.map": "/swiper-repro/static/css/2.3f358699.chunk.css.map",
+    "static/css/main.d92272cb.chunk.css.map": "/swiper-repro/static/css/main.d92272cb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ba3998f.js",
+    "static/css/2.3f358699.chunk.css",
+    "static/js/2.bfaa1fcd.chunk.js",
+    "static/css/main.d92272cb.chunk.css",
+    "static/js/main.41485841.chunk.js"
+  ]
+}

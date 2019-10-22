@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,kBACE,UAAW,CACX,YAAa,CACb,qBAAsB,CACtB,iBAAkB,CAClB,iBACF,CACA,cACE,sBACF","file":"main.d92272cb.chunk.css","sourcesContent":[".swiper-container {\n  width: 100%;\n  height: 250px;\n  background-color: #eee;\n  line-height: 250px;\n  text-align: center;\n}\n.swiper-slide {\n  outline: 1px solid #000;\n}\n"]}
